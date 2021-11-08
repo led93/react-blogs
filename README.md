@@ -1,3 +1,8 @@
+# react-blogs
+A bare bones implementation of a blog web app made with react, for educational purpose. 
+The original source code can be found at [Complete-React-Tutorial](https://github.com/iamshaunjp/Complete-React-Tutorial).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
