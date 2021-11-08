@@ -2,6 +2,14 @@
 A bare bones implementation of a blog web app made with react, for educational purpose. 
 The original source code can be found at [Complete-React-Tutorial](https://github.com/iamshaunjp/Complete-React-Tutorial).
 
+# json-server
+This project makes use of json-server in order to expose standard APIs (GET/POST/DELETE) on data that can be found in data/db.json
+
+In order to run json-server, you can run:
+
+### `npx json-server --watch data/db.json --port 8000`
+
+If you want to use a different port, remember to update the API calls in the source code too.
 
 # Getting Started with Create React App
 
